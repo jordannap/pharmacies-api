@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product: one
+  order: one
+  laboratory: one
+  total_cost: 1
+  quantity: 1
+  pharmacy: one
+  sale: one
+
+two:
+  product: two
+  order: two
+  laboratory: two
+  total_cost: 1
+  quantity: 1
+  pharmacy: two
+  sale: two
